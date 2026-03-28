@@ -141,7 +141,7 @@ Sends logs via HTTP to local server.
 ---
 
 ### Server
-![Structure](screenshots/http_server_running.jpeg)
+![Server](screenshots/http_server_running.png)
 
 ## Global Variable
 ![Global](screenshots/global.jpeg)
