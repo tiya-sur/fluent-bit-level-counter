@@ -87,20 +87,6 @@ http://localhost:8080
 
 ---
 
-## Output Example
-
-```json
-{
-  "time": "2026-03-21 10:15:02,456",
-  "level": "ERROR",
-  "file": "risk.cpp",
-  "line": 88,
-  "message": "Position limit exceeded",
-  "count": 2
-}
-```
-
----
 
 ## Components
 
@@ -136,4 +122,30 @@ Sends logs via HTTP to local server.
 * Python HTTP Server
 
 ---
+
+## Screenshots
+
+### Fluent Bit Running
+![Fluent Bit](screenshots/fluent_bit_running.png)
+
+---
+
+### Stdout Validation 
+![Stdout Output](screenshots/filter_working.png)
+
+---
+
+### HTTP Server Receiving Logs
+![HTTP Output](screenshots/http_server_output.png)
+
+---
+
+### Server
+![Structure](screenshots/http_server_running.png)
+
+## Global Variable
+![Global](screenshots/global.png)
+
+## Global Variable status in server
+![Global Variable](screenshots/global_variable_added.png)
 
