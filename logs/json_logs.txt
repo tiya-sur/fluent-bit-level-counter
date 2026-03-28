@@ -1,0 +1,4 @@
+{"time":"2026-03-21","level":"ERROR","file":"test.cpp","line":10,"message":"Failure A"}
+{"time":"2026-03-21","level":"INFO","file":"main.cpp","line":20,"message":"Start"}
+{"time":"2026-03-21","level":"WARNING","file":"extra.cpp","line":50,"message":"New warning"}
+{"time":"2026-03-21","level":"INFO","file":"trigger.cpp","line":2,"message":"Trigger json"}
