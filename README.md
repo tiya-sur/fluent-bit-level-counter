@@ -126,26 +126,26 @@ Sends logs via HTTP to local server.
 ## Screenshots
 
 ### Fluent Bit Running
-![Fluent Bit](screenshots/fluent_bit_running.png)
+![Fluent Bit](screenshots/fluent_bit_running.jpeg)
 
 ---
 
 ### Stdout Validation 
-![Stdout Output](screenshots/filter_working.png)
+![Stdout Output](screenshots/filter_working.jpeg)
 
 ---
 
 ### HTTP Server Receiving Logs
-![HTTP Output](screenshots/http_server_output.png)
+![HTTP Output](screenshots/http_server_output.jpeg)
 
 ---
 
 ### Server
-![Structure](screenshots/http_server_running.png)
+![Structure](screenshots/http_server_running.jpeg)
 
 ## Global Variable
-![Global](screenshots/global.png)
+![Global](screenshots/global.jpeg)
 
 ## Global Variable status in server
-![Global Variable](screenshots/global_variable_added.png)
+![Global Variable](screenshots/global_variable_added.jpeg)
 
