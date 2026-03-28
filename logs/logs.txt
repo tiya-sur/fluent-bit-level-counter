@@ -1,0 +1,6 @@
+2026-03-21 10:15:01,123 : INFO : [engine.cpp : 42] : Order received
+2026-03-21 10:15:02,456 : ERROR : [risk.cpp : 88] : Position limit exceeded
+2026-03-21 10:15:03,789 : WARNING : [feed.cpp : 17] : Delayed market data
+2026-03-21 10:30:00,000 : ERROR : [test.cpp : 99] : New error
+2026-03-21 10:40:00,000 : ERROR : [new.cpp : 100] : New error event
+2026-03-21 11:10:00,000 : ERROR : [trigger.cpp : 1] : Trigger log
