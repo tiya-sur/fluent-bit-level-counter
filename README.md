@@ -284,3 +284,16 @@ fluent-bit-level-counter/
 ## Global Variable status in server
 ![Global Variable](screenshots/global_variable_added.jpeg)
 
+## Alert collapsing between Fluent Bit and server Output 1
+![Server 1](screenshots/server_1.png)
+
+## Alert collapsing between Fluent Bit and server Output 2
+![Server 2](screenshots/server_2.png)
+
+## Middleware Batching 
+![Middleware](screenshots/middleware.png)
+
+
+
+
+
